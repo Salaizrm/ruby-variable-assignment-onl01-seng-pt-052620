@@ -2,5 +2,5 @@
  # give it the value of the string "Hello World"
 
 def greeting
-puts "Hello World"
+  puts "Hello World"
 end
